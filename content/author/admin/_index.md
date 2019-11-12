@@ -13,7 +13,7 @@ role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Zhejiang GongShang University", url = "" } ]
+organizations = [ { name = "Zhejiang Gongshang University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -56,7 +56,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=8-zdk9wAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
